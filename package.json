@@ -1,0 +1,18 @@
+{
+  "name": "sncraftbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SNcraftbot.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^12.3.1",
+    "minecraft-query": "^1.0.9",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daguerian",
+  "license": "ISC"
+}

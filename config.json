@@ -1,0 +1,8 @@
+{
+    "prefix": "$",
+    "token": "Token_here",
+    "screenName": "Nom_screen",
+    "serverIp": "ip_server",
+    "serverPort": "game_port",
+    "serverQueryport": "query_port"
+}
